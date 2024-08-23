@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+### Register No: 212223230017
+### Name: ANTHONY RAJ.N
 
 ## Aim: 
 To perform a study on Socket Programming
